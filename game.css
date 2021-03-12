@@ -1,6 +1,7 @@
 body
 {
 	background: lightblue;
+	color: white;
 }
 
 	.login_div1 , .login_div2
@@ -33,4 +34,20 @@ border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
+}
+
+.bg-image {
+	background-image: url("Blue Shades.png");
+}
+
+#login_btn {
+	background-color: white;
+	border-radius: 10px;
+	color: black;
+}
+
+#send_btn {
+	background-color: white;
+	border-radius: 10px;
+	color: black;
 }
